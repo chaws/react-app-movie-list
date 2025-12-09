@@ -1,0 +1,7 @@
+function Favorites() {
+    return <div className="favorites-empty">
+        <p>No favorites yet</p>
+    </div>;
+}
+
+export default Favorites;
