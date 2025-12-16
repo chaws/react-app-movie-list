@@ -2,7 +2,7 @@ import {Routes, Route} from 'react-router-dom'
 import Home from './pages/Home.jsx'
 import Favorites from './pages/Favorites.jsx'
 import Navbar from './components/Navbar.jsx'
-import './App.css'
+import './css/App.css'
 
 function App() {
 

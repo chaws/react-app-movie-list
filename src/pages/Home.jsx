@@ -1,3 +1,4 @@
+import "../css/Home.css"
 import MovieCard from '../components/MovieCard.jsx'
 import {useState} from 'react'
 
